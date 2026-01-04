@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham
 
-<!--
-**shubham-devcode/shubham-devcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I am a beginner software developer with knowledge of Python and Java.
+I am learning programming concepts, data structures, and building projects step by step.
+I enjoy solving problems and improving my coding skills every day.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm Doing Now
+- Strengthening Python and Java fundamentals
+- Learning full stack web development
+- Practicing coding daily
+- Building small projects
+
+## 📫 Connect With Me
+- GitHub: https://github.com/shubham-devcode
+
+⭐ Thanks for visiting my profile!
